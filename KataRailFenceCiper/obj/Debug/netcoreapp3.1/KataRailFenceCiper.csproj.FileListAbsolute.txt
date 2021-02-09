@@ -1,0 +1,13 @@
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\bin\Debug\netcoreapp3.1\KataRailFenceCiper.exe
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\bin\Debug\netcoreapp3.1\KataRailFenceCiper.deps.json
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\bin\Debug\netcoreapp3.1\KataRailFenceCiper.runtimeconfig.json
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\bin\Debug\netcoreapp3.1\KataRailFenceCiper.runtimeconfig.dev.json
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\bin\Debug\netcoreapp3.1\KataRailFenceCiper.dll
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\bin\Debug\netcoreapp3.1\KataRailFenceCiper.pdb
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.csprojAssemblyReference.cache
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.AssemblyInfoInputs.cache
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.AssemblyInfo.cs
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.csproj.CoreCompileInputs.cache
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.dll
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.pdb
+C:\Users\robbie\source\repos\KataRailFenceCiper\KataRailFenceCiper\obj\Debug\netcoreapp3.1\KataRailFenceCiper.genruntimeconfig.cache
